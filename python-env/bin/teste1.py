@@ -49,3 +49,5 @@ cardapio = Cardapio(0, "", 0)
 cardapio.mostrar_cardapio()
 cardapio.receber_pedido()
 cardapio.imprimir_notafiscal()
+
+# Created by: Luiz Gustavo
